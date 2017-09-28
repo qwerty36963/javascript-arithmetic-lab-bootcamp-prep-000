@@ -6,5 +6,5 @@ function inc(a){return a + 1}
 function dec(a){return a - 1}
 function makeInt(a){return a.toString}
 function makeInt(a){return parseInt(a, 10)}
-function preserveDecimal(b){return parseFloat()}
-function preserveDecimal(a){return parseInt(a, 10)}
+function preserveDecimal(n){return parseFloat()}
+function preserveDecimal(n){return parseInt(a, 10)}
