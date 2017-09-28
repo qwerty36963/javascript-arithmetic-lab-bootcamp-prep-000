@@ -7,4 +7,3 @@ function dec(a){return a - 1}
 function makeInt(a){return a.toString}
 function makeInt(a){return parseInt(a, 10)}
 function preserveDecimal(a){return parseFloat(2.222)}
-
